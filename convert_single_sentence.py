@@ -1,5 +1,6 @@
-#
-#
+# test
+# comen
+
 import sys
 # 引数確認
 argvs = sys.argv
